@@ -6,6 +6,6 @@
 
 `Cryphonectria_Stauber_2021`: Scripts and genetic data used for demographic modelling in Stauber et al. eLife 2021. DOI: [https://doi.org/10.7554/eLife.56279](https://doi.org/10.7554/eLife.56279)
 
-`European Z. tritici genomes` European Zymoseptoria tritici genomes sequenced in 2023 with PacBio Sequel II. Includes reference genomes, gene and TE annotation files.
+`European_Z. tritici_genomes_2023` European _Zymoseptoria tritici_ genomes sequenced in 2023 by Thomas Badet, Daniel Croll (UNINE) and Gabriel Scalliet (Syngenta) with PacBio Sequel II. Includes reference genomes, gene and TE annotation files.
 
 Please contact us if you have any question (daniel.croll@unine.ch).
