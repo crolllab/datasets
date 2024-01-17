@@ -1,5 +1,7 @@
 # HiFi assemblies annotation 
 
+Pipeline prepared and run by Thomas Badet, UNINE
+
 As a first step, single-end RNA-seq reads generated upon minimal media condition for 14 pangenome isolates were mapped to each of the four HiFi genome assemblies using hisat2 with default parameters (RNA-seq data from Arg00, Aus01, CH95, CNR93, CRI10, I93, IPO323, IR01_48b, ISY92, KE94, OregS90, TN09, UR95 and YEQ92 isolates).
 The resulting alignment files were then used together with IPO323 proteins (Zymoseptoria_tritici.MG2.Grandaubert2015.proteins.fa) to train intron / start / stop hints during gene annotation using braker.
 
